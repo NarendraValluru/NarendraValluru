@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narendra</h1>
-<h3 align="center">A passionate Java developer</h3>
+<!-- <h3 align="center">A passionate Java developer</h3> -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=A+passionate+Java+Developer;A+passionate+Frontend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=A+passionate+Java+Developer+👨‍💻;" alt="Typing SVG" />
   </a>
 </p>
 
